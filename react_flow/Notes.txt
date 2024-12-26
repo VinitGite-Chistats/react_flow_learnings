@@ -1,0 +1,11 @@
+What is React Flow?
+    React Flow is a library for building node-based applications. Those can be anything from simple static diagrams to data visualizations to complex visuals editors. You can implement custom node types and edges and it comes with components like a minimap and viewport controls out of the box.
+
+1. Background component: Customize the appearance of the background area of the flow chart.
+2. Controls: It provides a set of interactive buttons that allow users to easily manipulate the viewport of the flow chart.
+    Here's what the Controls component offers:
+    2.1 Zoom In/Out: Buttons to quickly zoom in and out of the flow chart, making it easier to focus on specific areas or get a broader overview.
+    2.2 Fit View: A button that automatically adjusts the viewport to fit all nodes within the visible area. This is useful when you want to see the     
+                  entire flow chart at once.
+    2.3 Lock/Unlock Viewport: A button to toggle between a locked and unlocked viewport. When locked, users cannot pan or zoom, preventing accidental 
+                             changes to the view.
